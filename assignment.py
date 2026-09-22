@@ -2,7 +2,6 @@
 # Exercise 1
 
 def find_insert_position(data, target):
-
     low = 0
 
     high = len(data) - 1
